@@ -24,6 +24,7 @@ You can also contribute by providing useful resources from **Youtube or Blogs** 
 - Configure git bash and complete your second pull request. [Video](https://www.youtube.com/watch?v=cBigFcoAXZg)
 - Software Engineering is Overwhelming [Video](https://www.youtube.com/watch?v=MbDjrztWtX4)
 - GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker [Video](https://www.youtube.com/watch?v=R8_veQiYBjI)
+- Squashing Multiple commits into single one. [Video](https://www.youtube.com/watch?v=gXCkYkLQ3To&t=152s)
 
 
 ### Github Repositories for learning
